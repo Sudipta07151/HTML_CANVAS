@@ -29,3 +29,10 @@ body{
     border: 2px solid;
 };
 
+#viewport { 
+    border: 1px solid white; 
+    width: 900px;
+    height:100%; 
+}
+
+
